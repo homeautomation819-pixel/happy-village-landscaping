@@ -1,0 +1,282 @@
+[
+  {
+    "slug": "north-york",
+    "name": "North York",
+    "isHomeBase": true,
+    "image": "/images/landscaping-north-york.jpg",
+    "imageAlt": "Landscaped North York home with lawn and gardens",
+    "title": "Landscaping North York | Happy Village Landscaping",
+    "metaDescription": "North York's local landscaping crew: design, interlock, sod, lawn care, renovations & snow removal. Based on Stubbs Dr. Free quote: +1 (438) 835-4350.",
+    "h1": "Landscaping in North York: Your Local Crew, Based Right Here",
+    "intro": "North York is home — Happy Village Landscaping is based at 25 Stubbs Dr, right in the heart of the community we serve. From the mature lots around Bayview Village and Don Mills to the post-war bungalows of Willowdale and the new builds going up near Downsview, we design, build and maintain North York properties outdoors and in: landscape design, interlock and hardscaping, sod, lawn care, irrigation, basement finishing, kitchen and bath renovations, commercial grounds and winter snow removal. Local means fast: quotes, site visits and follow-ups are a short drive, not a scheduling ordeal. Call +1 (438) 835-4350 — we're open 24 hours and the on-site quote is always free.",
+    "localBody": "North York properties have their own personality. Mature neighbourhoods like York Mills and Hogg's Hollow come with large lots, mature tree canopy (and the city's tree protection rules that come with it), and drainage patterns established decades ago that renovation work needs to respect. Post-war bungalows across Willowdale and Newtonbrook sit on heavy clay that makes proper base prep non-negotiable for any interlock or stone work. Newer infill and townhouse developments bring the builder-grade blank slate — a strip of sod and one mulch bed waiting for a real plan. We work across all of it, and because we're based here, response times are measured in minutes, not days. Most North York quotes happen within days of your call, and every price is itemized in writing before work begins.",
+    "landmarks": "Bayview Village, Don Mills, Willowdale, York Mills, Hogg's Hollow, Newtonbrook, Downsview, the East Don Parkland and G. Ross Lord Park trail corridors",
+    "faqs": [
+      {
+        "q": "Do you charge for quotes in North York?",
+        "a": "Never. Every project starts with a free on-site visit — we walk the property, take measurements, discuss options, and leave you a written, itemized price. And since we're based on Stubbs Dr in North York, we can usually book your visit quickly."
+      },
+      {
+        "q": "Which North York neighbourhoods do you serve?",
+        "a": "All of them — Willowdale, Don Mills, York Mills, Bayview Village, Newtonbrook, Downsview, Hogg's Hollow and everywhere between. Being based in North York means every neighbourhood is a short drive for our crew."
+      },
+      {
+        "q": "Can you handle both my backyard and my basement?",
+        "a": "Yes — that's exactly how we're built. Landscape design, hardscaping, sod and irrigation outdoors; basement finishing, drywall, flooring, kitchen and bath and painting indoors. One written quote, one schedule, one accountable crew."
+      },
+      {
+        "q": "Do you offer snow removal in North York in winter?",
+        "a": "Yes — seasonal contracts and per-event clearing for North York driveways, walkways and commercial lots, with salting and ice monitoring. Because we're local, North York clients sit at the heart of our winter routes."
+      },
+      {
+        "q": "Are you insured and rated?",
+        "a": "Happy Village Landscaping holds a 5.0-star Google rating from our North York area customers. We're happy to discuss insurance and any documentation you need as part of your free written quote."
+      }
+    ]
+  },
+  {
+    "slug": "toronto",
+    "name": "Toronto",
+    "isHomeBase": false,
+    "image": "/images/toronto-skyline-service-area.jpg",
+    "imageAlt": "Toronto skyline at sunset — landscaping and renovation service area",
+    "title": "Landscaping Toronto & GTA | Happy Village Landscaping",
+    "metaDescription": "Toronto landscaping & renovations by one local crew: design, interlock, sod, lawn care, basement finishing & snow removal. Free quote: +1 (438) 835-4350.",
+    "h1": "Landscaping in Toronto: One Crew for Your Whole Property, Indoors and Out",
+    "intro": "Toronto properties ask a lot of a contractor: tight downtown lots, ravine-edge slopes, century homes with settling plaster, new infill with builder-grade yards — and a climate that swings from July humidity to minus-twenty freezes. Happy Village Landscaping serves the whole city from our North York base with sixteen services under one roof: landscape design, interlock and stonework, sod and lawn care, irrigation, basement finishing, kitchen and bath remodeling, commercial grounds care and snow removal. Every project starts with a free on-site quote and an itemized written price. Call +1 (438) 835-4350 — we're open 24 hours.",
+    "localBody": "Working in Toronto means working with the city's specifics. Lot-coverage rules limit how much of a downtown lot can be paved, and we design hardscape within those limits rather than discovering them at inspection. Ravine and valley-adjacent properties can fall under TRCA oversight — we flag that early because it drives the whole schedule. Mature neighbourhoods come with protected trees whose protection zones shape where a patio can go. And Toronto's dominant clay soil plus metre-deep frost makes base preparation the difference between interlock that stays flat and interlock that waves by spring. From High Park to the Beaches, Etobicoke Creek to the Rouge, we quote every project free and in writing, with realistic timelines that account for permit steps when they apply.",
+    "landmarks": "Downtown Toronto, the Beaches, High Park, Liberty Village, Leslieville, the Don Valley and Humber River corridors, Midtown and Forest Hill",
+    "faqs": [
+      {
+        "q": "Do you serve all of Toronto?",
+        "a": "Yes — from our North York base we cover the whole city: downtown, midtown, the east and west ends, and every neighbourhood between. Free on-site quotes apply everywhere in Toronto."
+      },
+      {
+        "q": "How do Toronto's lot-coverage and tree bylaws affect my project?",
+        "a": "The city limits hard-surface coverage on residential lots and protects significant trees, which shapes where patios, walkways and structures can go. We design within those rules from the start and flag permit triggers at quote — not mid-build."
+      },
+      {
+        "q": "Can one company really handle my yard and my renovation?",
+        "a": "Yes — landscaping, hardscaping, sod and irrigation outdoors; basement finishing, drywall, flooring, kitchen and bath and painting indoors. One quote, one schedule, one accountable crew instead of three contractors."
+      },
+      {
+        "q": "Do you work on Toronto commercial properties?",
+        "a": "Yes — commercial landscape design, scheduled grounds maintenance and winter snow removal for offices, retail plazas and condos across the city, with service records and one accountable contact."
+      },
+      {
+        "q": "How fast can you start a Toronto project?",
+        "a": "Smaller jobs like sod or repairs can often be scheduled within days to a couple of weeks; larger design-build and renovation projects are booked in order of approved quotes. Call +1 (438) 835-4350 for a realistic timeline for your project."
+      }
+    ]
+  },
+  {
+    "slug": "scarborough",
+    "name": "Scarborough",
+    "isHomeBase": false,
+    "image": "/images/landscaping-scarborough.jpg",
+    "imageAlt": "Modern Scarborough home with landscaped yard and pool",
+    "title": "Landscaping Scarborough | Happy Village Landscaping",
+    "metaDescription": "Scarborough landscaping by one local crew: design, interlock, sod, lawn care, basement finishing & snow removal. Free on-site quote: +1 (438) 835-4350 today.",
+    "h1": "Landscaping in Scarborough: From Bluffs-Area Slopes to New Subdivision Yards",
+    "intro": "Scarborough's mix of mature post-war lots, ravine and Bluffs-adjacent slopes, and growing subdivisions needs a crew that understands both ends of that spectrum. Happy Village Landscaping serves all of Scarborough from our North York base — landscape design and architecture for sloped and drainage-challenged lots, interlock and stonework built on proper bases, sod and lawn care, irrigation, plus basement finishing, kitchen and bath renovations inside, and snow removal all winter. Free on-site quotes with itemized written pricing: call +1 (438) 835-4350, open 24 hours.",
+    "localBody": "Scarborough properties come with real topography. Lots near the Bluffs and along the Highland Creek and Rouge corridors often deal with slopes, drainage and — near valley lands — conservation authority considerations that we flag during design rather than at the permit counter. The area's post-war bungalows and split-levels are prime basement-finishing candidates, and their generous yards respond beautifully to phased landscape plans: grading and drainage first, hardscape second, planting to follow. Newer subdivisions in north Scarborough arrive with the usual builder-grade strip of sod over compacted fill — our sod and soil-prep process turns those into lawns that actually establish. Whatever the lot, the model stays the same: free on-site visit, itemized written quote, one accountable local crew.",
+    "landmarks": "the Scarborough Bluffs, Guildwood, Agincourt, Woburn, Malvern, Birch Cliff, Highland Creek and Rouge Park",
+    "faqs": [
+      {
+        "q": "Do you serve all of Scarborough?",
+        "a": "Yes — from Birch Cliff and Guildwood to Agincourt, Woburn and Malvern. Our North York base puts Scarborough minutes away via the 401 and DVP, and quotes are always free."
+      },
+      {
+        "q": "My Scarborough backyard is sloped and wet — can you help?",
+        "a": "That's exactly what our landscape architecture service handles: grading and drainage design, terraced retaining solutions and phased plans that turn difficult slopes into usable space. We assess drainage at your free on-site visit."
+      },
+      {
+        "q": "Do you finish basements in Scarborough?",
+        "a": "Yes — Scarborough's post-war bungalows and split-levels are ideal for basement finishing. We handle moisture assessment, framing, drywall, flooring and paint with our own crew, with permit guidance where the project needs it."
+      },
+      {
+        "q": "Do you offer snow removal in Scarborough?",
+        "a": "Yes — seasonal contracts and per-event clearing for Scarborough driveways, walkways and commercial properties, with salting and ice monitoring between storms."
+      },
+      {
+        "q": "How much does sod installation cost in Scarborough?",
+        "a": "Published GTA pricing runs roughly $2.10–$4.50 per square foot for residential sod including prep. Your free on-site quote confirms an exact per-square-foot price for your Scarborough property."
+      }
+    ]
+  },
+  {
+    "slug": "etobicoke",
+    "name": "Etobicoke",
+    "isHomeBase": false,
+    "image": "/images/landscaping-etobicoke.jpg",
+    "imageAlt": "Landscaped Etobicoke property with pool and modern hardscaping",
+    "title": "Landscaping Etobicoke ON | Happy Village Landscaping",
+    "metaDescription": "Etobicoke landscaping by one local crew: design, interlock, sod, lawn care, basement finishing & snow removal. Free on-site quote: +1 (438) 835-4350 today.",
+    "h1": "Landscaping in Etobicoke: Big Yards, Mature Trees, Room to Build Something Great",
+    "intro": "Etobicoke's generous lots and mature canopy give landscaping real room to work — and its older homes give renovation real opportunities. Happy Village Landscaping serves all of Etobicoke from our North York base: landscape design, interlock driveways and patios, sod and lawn care, irrigation, stonework and water features outdoors; basement finishing, flooring, drywall, kitchen and bath and painting indoors; commercial maintenance and snow removal year-round. Every project starts free: an on-site visit, measurements, and an itemized written price. Call +1 (438) 835-4350 — we're open 24 hours.",
+    "localBody": "Etobicoke's neighbourhoods each ask something different of a contractor. The Kingsway and Sunnylea's mature lots come with significant trees — and the protection bylaws that shape where hardscape can go; we design within those zones from the first sketch. Long Branch, New Toronto and Mimico's lakeside properties deal with wind exposure and drainage patterns that plant selection and grading need to respect. Rexdale and Eringate's post-war homes offer classic basement-finishing and kitchen renovation opportunities, while newer townhouse developments need the builder-blank-slate treatment: real soil prep before sod, drainage set before patios. Across all of it, our model holds — free on-site quote, itemized pricing, one crew for the whole property, and snow removal from the same team when winter arrives.",
+    "landmarks": "The Kingsway, Sunnylea, Mimico, Long Branch, New Toronto, Rexdale, Eringate-Centennial-West Deane and the Humber River valley",
+    "faqs": [
+      {
+        "q": "Do you serve all of Etobicoke?",
+        "a": "Yes — The Kingsway to Long Branch, Rexdale to the lakeshore. Our North York base makes Etobicoke a quick run west, and every on-site quote is free."
+      },
+      {
+        "q": "How do tree protection bylaws affect my Etobicoke project?",
+        "a": "Significant trees have protected zones that shape where patios, walkways and excavation can go. We identify protected trees at the site visit and design within the rules, flagging any permit needs before construction."
+      },
+      {
+        "q": "Can you do my interlock driveway and finish my basement?",
+        "a": "Yes — one crew, one quote covering both. Hardscaping outdoors and basement finishing indoors run on one schedule with one accountable contact, and each trade is done by our own team."
+      },
+      {
+        "q": "What does an interlock driveway cost in Etobicoke?",
+        "a": "Published GTA pricing typically runs $18–$40+ per square foot installed, depending on pavers, base depth and drainage. Your free on-site quote gives an exact itemized number for your property."
+      },
+      {
+        "q": "Do you offer snow removal in Etobicoke?",
+        "a": "Yes — seasonal contracts and per-event service for Etobicoke homes and commercial properties, with salting and ice monitoring. Fall sign-up guarantees your route spot before the first storm."
+      }
+    ]
+  },
+  {
+    "slug": "york",
+    "name": "York",
+    "isHomeBase": false,
+    "image": "/images/landscaping-york-toronto.jpg",
+    "imageAlt": "Modern landscaped home in York, Toronto with evening lighting",
+    "title": "Landscaping York, Toronto | Happy Village Landscaping",
+    "metaDescription": "Landscaping in York, Toronto by one local crew: design, sod, interlock, lawn care, renovations & snow removal. Free on-site quote: +1 (438) 835-4350 today.",
+    "h1": "Landscaping in York: Practical Care for Some of Toronto's Hardest-Working Properties",
+    "intro": "York's mix of post-war homes, multiplexes and tight urban lots rewards practical, well-planned property work — and Happy Village Landscaping delivers it from our nearby North York base. Landscape design scaled to real budgets, sod and lawn care for compact yards, interlock and concrete that handle daily use, plus basement finishing, drywall, flooring and painting inside, and reliable snow removal through winter. Every job starts with a free on-site visit and an itemized written quote — no obligation, no pressure. Call +1 (438) 835-4350, open 24 hours.",
+    "localBody": "York properties are honest work: smaller lots where every square metre has to earn its place, older homes where a finished basement adds real, rentable or liveable square footage, and yards that need durable surfaces more than delicate showpieces. We design compact landscapes around how households actually use them — parking and walkways that work in February, low-maintenance planting that survives neglect, drainage that keeps basements dry. Inside, basement finishing in York's post-war stock is one of the best value moves a homeowner can make, and our one-crew model (drywall, flooring, paint in-house) keeps those projects on budget. Quotes are always free, written and itemized — you'll know exactly what's included before we start.",
+    "landmarks": "Weston, Mount Dennis, Keelesdale, Silverthorn, Fairbank and the York Beltline trail corridor",
+    "faqs": [
+      {
+        "q": "Do you serve the York area?",
+        "a": "Yes — Weston, Mount Dennis, Keelesdale, Silverthorn, Fairbank and the whole York community, minutes from our North York base. On-site quotes are always free."
+      },
+      {
+        "q": "Can you design a low-maintenance yard for a small York lot?",
+        "a": "Absolutely — compact lots are where smart design pays most: durable surfaces, right-sized planting, and drainage that works. We scale the plan to your budget and phase it if that helps."
+      },
+      {
+        "q": "Is finishing my York basement worth it?",
+        "a": "In York's post-war housing stock, a properly finished basement adds genuine living space and strong value — published Toronto pricing runs roughly $65–$130 per square foot. Your free quote gives an exact itemized number for your basement."
+      },
+      {
+        "q": "Do you offer snow removal in York?",
+        "a": "Yes — seasonal contracts and per-event clearing for York driveways and walkways, with salting and ice monitoring. The same crew that handles your summer lawn care can cover your winter snow."
+      },
+      {
+        "q": "How do I get a quote?",
+        "a": "Call +1 (438) 835-4350 or use the contact form — we visit, measure, discuss options, and leave a written itemized price. The visit costs nothing and there's no obligation."
+      }
+    ]
+  },
+  {
+    "slug": "east-york",
+    "name": "East York",
+    "isHomeBase": false,
+    "image": "/images/landscaping-east-york.jpg",
+    "imageAlt": "Residential property in East York Toronto ready for landscaping services",
+    "title": "Landscaping East York ON | Happy Village Landscaping",
+    "metaDescription": "East York landscaping by one local crew: design, sod, interlock, lawn care, basement finishing & snow removal. Free on-site quote: +1 (438) 835-4350 today.",
+    "h1": "Landscaping in East York: Big Potential in Toronto's Classic Family Neighbourhoods",
+    "intro": "East York's solid post-war homes and family-sized lots are some of the best renovation and landscaping candidates in Toronto — and Happy Village Landscaping serves the whole community from our North York base. Landscape design that turns dated yards into outdoor rooms, interlock and stonework on proper bases, sod that establishes the first time, lawn care on a set schedule, plus basement finishing, kitchen and bath remodeling and painting indoors, and snow removal all winter. Free on-site quotes with itemized pricing: +1 (438) 835-4350, open 24 hours.",
+    "localBody": "East York is a renovator's landscape: detached and semi-detached post-war homes with real yards, mature street trees, and basements that are one project away from being rec rooms, gyms or rental-ready suites. The Don Valley edges bring slopes and drainage questions that our landscape architecture service answers with grading plans and retaining design. Family lots benefit from phased plans — play space now, patio and planting as budget allows — and our design-build model means the same crew that draws your plan builds it. Inside, basement finishing and kitchen updates deliver strong value in East York's market, all handled by one accountable local team. Quotes are free, written and itemized; timelines are honest; and the same crew clears your snow when November arrives.",
+    "landmarks": "Leaside borders, Thorncliffe Park, Flemingdon Park, Pape Village, the Danforth and the Don Valley corridor",
+    "faqs": [
+      {
+        "q": "Do you serve East York?",
+        "a": "Yes — Thorncliffe Park, Flemingdon Park, Pape Village, Leaside borders and the whole East York community. We're minutes away from our North York base and quotes are always free."
+      },
+      {
+        "q": "Can you handle a sloped East York backyard near the Don Valley?",
+        "a": "Yes — sloped lots are exactly what our landscape architecture service covers: grading and drainage design, terraced retaining solutions, and permit-aware drawings where slopes and valley lands are involved."
+      },
+      {
+        "q": "Do you finish basements in East York?",
+        "a": "Yes — East York's post-war homes are ideal basement-finishing candidates. Moisture assessment first, then framing, drywall, flooring and paint by our own crew, with permit guidance included at quote."
+      },
+      {
+        "q": "Can you phase my landscaping over two seasons?",
+        "a": "Yes — phased master plans are a specialty: grading and drainage first, hardscape second, planting and finishing later. Every phase looks complete on its own and the total cost is known from the start."
+      },
+      {
+        "q": "Do you offer snow removal in East York?",
+        "a": "Yes — seasonal contracts and per-event clearing for East York homes and commercial properties, with salting, ice monitoring and the same local crew year-round."
+      }
+    ]
+  },
+  {
+    "slug": "vaughan",
+    "name": "Vaughan",
+    "isHomeBase": false,
+    "image": "/images/landscaping-vaughan.jpg",
+    "imageAlt": "Modern architecture in Vaughan representing new development landscaping",
+    "title": "Landscaping Vaughan ON | Happy Village Landscaping",
+    "metaDescription": "Vaughan landscaping by one local crew: design, interlock, sod for new builds, lawn care & snow removal. Free on-site quote today: +1 (438) 835-4350 now.",
+    "h1": "Landscaping in Vaughan: Turning New-Build Blank Slates Into Finished Properties",
+    "intro": "Vaughan's rapid growth means thousands of homes sitting on builder-grade yards — a strip of sod over compacted fill and a yard waiting for a real plan. Happy Village Landscaping serves Vaughan from our North York base with the services new and established properties both need: landscape design and master plans, interlock driveways and patios, proper sod installation with real soil prep, irrigation, plus basement finishing for all that untouched lower level, and snow removal through winter. Every project starts with a free on-site quote and itemized written pricing. Call +1 (438) 835-4350 — open 24 hours.",
+    "localBody": "New-build Vaughan properties share a pattern: minimal topsoil over clay and construction fill, grades set by the builder's minimums, and sod that struggles because roots can't penetrate what's underneath. Our sod and soil-prep process fixes the foundation first — strip, loosen, amend, grade — so the lawn that goes down actually lasts. Backyard transformations in Woodbridge, Maple and Kleinburg typically start with a master plan: drainage and grading, then interlock patio and walkways, then planting and lighting phased to budget. The region's big unfinished basements are prime finishing candidates too, handled by the same crew. Established Vaughan neighbourhoods get the same full range — lawn care programs, renovation work, commercial maintenance and snow contracts. Quotes are free and itemized; call any time, we answer 24 hours.",
+    "landmarks": "Woodbridge, Maple, Kleinburg, Thornhill's west side, Concord and the Vaughan Metropolitan Centre",
+    "faqs": [
+      {
+        "q": "Do you serve Vaughan?",
+        "a": "Yes — Woodbridge, Maple, Kleinburg, Concord, Thornhill's west side and the VMC area. Our North York base puts Vaughan within easy reach, and on-site quotes are always free."
+      },
+      {
+        "q": "My new-build Vaughan lawn died — can you fix it?",
+        "a": "Very common: builder sod goes over compacted fill and can't root. We strip it, build real soil depth, grade for drainage, and lay fresh farm sod with a written aftercare plan — a lawn that takes the first time."
+      },
+      {
+        "q": "Can you design and build my whole Vaughan backyard?",
+        "a": "Yes — master plan, drainage and grading, interlock patio and walkways, planting, lighting and sod, phased to your budget. The crew that designs it builds it, and pricing is itemized in writing before work begins."
+      },
+      {
+        "q": "Do you finish basements in Vaughan?",
+        "a": "Yes — Vaughan's large unfinished basements are ideal candidates. We handle moisture assessment, framing, drywall, flooring and paint in-house, with permit guidance where the project needs it."
+      },
+      {
+        "q": "Do you offer snow removal in Vaughan?",
+        "a": "Yes — seasonal contracts and per-event clearing for Vaughan driveways, walkways and commercial lots, with salting and ice monitoring. Sign up in fall to guarantee your route spot."
+      }
+    ]
+  },
+  {
+    "slug": "markham",
+    "name": "Markham",
+    "isHomeBase": false,
+    "image": "/images/landscaping-markham.jpg",
+    "imageAlt": "Commercial and residential property in Markham served by landscaping crew",
+    "title": "Landscaping Markham ON | Happy Village Landscaping",
+    "metaDescription": "Markham landscaping by one local crew: design, interlock, sod, lawn care, renovations & snow removal for homes & businesses. Quote: +1 (438) 835-4350 now.",
+    "h1": "Landscaping in Markham: From Heritage Main Streets to New Community Yards",
+    "intro": "Markham runs the full range — heritage properties in Unionville, established family neighbourhoods, brand-new communities, and one of the GTA's busiest commercial corridors — and Happy Village Landscaping serves all of it from our North York base. Landscape design and interlock for family yards, sod and lawn care programs, irrigation, basement finishing and kitchen renovations indoors, commercial grounds maintenance for the Highway 7 and Woodbine corridors, and snow removal through winter. Free on-site quotes with itemized written pricing: call +1 (438) 835-4350, open 24 hours.",
+    "localBody": "Markham's variety keeps the work interesting. Unionville and older Markham Village properties come with mature trees and established character that design needs to respect — new work should look like it belongs. Newer communities across Wismer, Cornell and Box Grove bring the standard new-build slate: minimal soil, builder sod, and yards ready for a real plan. Markham's commercial districts — offices, plazas and condo developments along Highway 7, Woodbine and Warden — rely on our commercial maintenance and snow removal programs with service records property managers need. The soil story is familiar GTA clay, so base prep and drainage get the attention they demand on every hardscape and sod job. One crew, sixteen services, free itemized quotes — and the same team twelve months a year.",
+    "landmarks": "Unionville, Markham Village, Wismer, Cornell, Box Grove, Milliken and the Highway 7 and Woodbine corridors",
+    "faqs": [
+      {
+        "q": "Do you serve Markham?",
+        "a": "Yes — Unionville, Markham Village, Wismer, Cornell, Box Grove, Milliken and the whole city. Our North York base is a straight shot down the 404, and quotes are always free."
+      },
+      {
+        "q": "Do you maintain commercial properties in Markham?",
+        "a": "Yes — scheduled grounds maintenance, seasonal colour, cleanups and winter snow removal for offices, plazas and condos along the Highway 7, Woodbine and Warden corridors, with written programs and service records."
+      },
+      {
+        "q": "Can you fix my new-build Markham lawn?",
+        "a": "Yes — builder sod over compacted fill is the most common call we get. We strip, amend, grade and lay fresh farm sod with a written aftercare plan. Published GTA pricing runs roughly $2.10–$4.50 per square foot; your free quote confirms exact numbers."
+      },
+      {
+        "q": "Can one company handle my yard and my basement reno?",
+        "a": "Yes — sixteen services, one crew: landscaping and hardscaping outdoors, basement finishing, flooring, drywall, kitchen and bath and painting indoors, snow removal in winter. One written quote, one accountable contact."
+      },
+      {
+        "q": "Do you offer snow removal in Markham?",
+        "a": "Yes — seasonal contracts and per-event clearing for Markham homes and businesses, with salting and ice monitoring. Commercial clients get documented service records per event."
+      }
+    ]
+  }
+]

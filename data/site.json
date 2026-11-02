@@ -1,0 +1,92 @@
+{
+  "businessName": "Happy Village Landscaping",
+  "founder": "Abdul Azem",
+  "tagline": "Landscaping & Renovations in North York and Toronto",
+  "phone": "+14388354350",
+  "phoneDisplay": "+1 (438) 835-4350",
+  "whatsappNumber": "+14388354350",
+  "whatsappGreeting": "Hi Happy Village Landscaping, I'd like a free quote for...",
+  "email": "",
+  "address": {
+    "street": "25 Stubbs Dr",
+    "city": "North York",
+    "region": "ON",
+    "postalCode": "M2L 2R2",
+    "country": "CA"
+  },
+  "googleRating": "5.0",
+  "googleReviewCount": "",
+  "googleReviewLink": "",
+  "hours": {
+    "label": "Open 24 hours",
+    "days": [
+      {
+        "day": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "day": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ]
+  },
+  "domain": "https://www.happyvillagelandscaping.ca",
+  "gbpLink": "",
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "x": ""
+  },
+  "schema": {
+    "businessType": "LandscapingBusiness",
+    "geoLat": "",
+    "geoLng": "",
+    "googleMapsLink": "",
+    "logo": "/images/happy-village-landscaping-logo.svg",
+    "priceRange": "$$",
+    "currenciesAccepted": "CAD",
+    "serviceArea": [
+      "North York",
+      "Toronto",
+      "Scarborough",
+      "Etobicoke",
+      "York",
+      "East York",
+      "Vaughan",
+      "Markham"
+    ],
+    "aggregateRatingValue": "5.0",
+    "reviewCount": ""
+  },
+  "heroImage": "/images/landscaping-north-york-hero.jpg",
+  "lastUpdated": "2026-11-02"
+}
