@@ -9,7 +9,7 @@ import JsonLd, { localBusinessSchema, organizationSchema } from "../components/J
 export const dynamic = "force-dynamic";
 
 export async function generateMetadata() {
-  const site = getSite();
+  const site = await getSite();
   const base = site.domain.replace(/\/$/, "");
   return {
     metadataBase: new URL(site.domain),
@@ -29,10 +29,10 @@ export async function generateMetadata() {
   };
 }
 
-export default function RootLayout({ children }) {
-  const site = getSite();
-  const services = getServices();
-  const locations = getLocations();
+export default async function RootLayout({ children }) {
+  const site = await getSite();
+  const services = await getServices();
+  const locations = await getLocations();
   return (
     <html lang="en-CA">
       <head>

@@ -10,9 +10,9 @@ import { ogFor } from "../../../lib/site";
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
-  const post = getPost(slug);
+  const post = await getPost(slug);
   if (!post) return {};
-  const site = getSite();
+  const site = await getSite();
   return {
     title: post.title,
     description: post.metaDescription,
@@ -23,11 +23,11 @@ export async function generateMetadata({ params }) {
 
 export default async function BlogPostPage({ params }) {
   const { slug } = await params;
-  const post = getPost(slug);
+  const post = await getPost(slug);
   if (!post) notFound();
-  const site = getSite();
-  const blog = getBlog();
-  const relatedService = post.relatedService ? getService(post.relatedService) : null;
+  const site = await getSite();
+  const blog = await getBlog();
+  const relatedService = post.relatedService ? await getService(post.relatedService) : null;
   const more = blog.filter((p) => p.slug !== post.slug).slice(0, 2);
   const crumbs = [
     { label: "Home", href: "/" },

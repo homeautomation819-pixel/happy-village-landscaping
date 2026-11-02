@@ -17,6 +17,10 @@ npm start        # production on http://localhost:3000
 npm run dev      # development
 ```
 
+## Database (Supabase)
+
+Content can be stored in Supabase (recommended for Vercel/production) or in local JSON files (automatic fallback when Supabase env vars are absent). See **SUPABASE_SETUP.md** — create the table, copy `.env.example` to `.env.local`, fill in `SUPABASE_URL` / `SUPABASE_SERVICE_ROLE_KEY` / `ADMIN_SECRET`, then seed once with `node scripts/seed-supabase.js`.
+
 ## Admin Panel
 
 - URL: `/admin` — default password `happyvillage2026` (**change it in the Password tab after first login**)

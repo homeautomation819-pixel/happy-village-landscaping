@@ -7,7 +7,7 @@ import JsonLd, { breadcrumbSchema } from "../../components/JsonLd";
 import { ogFor } from "../../lib/site";
 
 export async function generateMetadata() {
-  const site = getSite();
+  const site = await getSite();
   const title = "Landscaping & Renovation Guides | Happy Village Landscaping Blog";
   const description = "Toronto landscaping and renovation cost guides, seasonal tips and local advice from the Happy Village Landscaping crew. Call +1 (438) 835-4350.";
   return {
@@ -18,9 +18,9 @@ export async function generateMetadata() {
   };
 }
 
-export default function BlogPage() {
-  const blog = getBlog();
-  const site = getSite();
+export default async function BlogPage() {
+  const blog = await getBlog();
+  const site = await getSite();
   const crumbs = [{ label: "Home", href: "/" }, { label: "Blog" }];
   return (
     <>

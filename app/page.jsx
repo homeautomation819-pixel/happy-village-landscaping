@@ -10,8 +10,8 @@ import BookingForm from "../components/BookingForm";
 import { ogFor } from "../lib/site";
 
 export async function generateMetadata() {
-  const pages = getPages();
-  const site = getSite();
+  const pages = await getPages();
+  const site = await getSite();
   return {
     title: pages.home.title,
     description: pages.home.metaDescription,
@@ -27,12 +27,12 @@ const CATEGORY_ORDER = [
   "Seasonal Services",
 ];
 
-export default function HomePage() {
-  const site = getSite();
-  const pages = getPages();
-  const services = getServices();
-  const locations = getLocations();
-  const blog = getBlog();
+export default async function HomePage() {
+  const site = await getSite();
+  const pages = await getPages();
+  const services = await getServices();
+  const locations = await getLocations();
+  const blog = await getBlog();
   const h = pages.home;
 
   return (

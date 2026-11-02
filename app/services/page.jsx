@@ -6,8 +6,8 @@ import JsonLd, { breadcrumbSchema } from "../../components/JsonLd";
 import { ogFor } from "../../lib/site";
 
 export async function generateMetadata() {
-  const pages = getPages();
-  const site = getSite();
+  const pages = await getPages();
+  const site = await getSite();
   return {
     title: pages.servicesIndex.title,
     description: pages.servicesIndex.metaDescription,
@@ -23,10 +23,10 @@ const CATEGORY_ORDER = [
   "Seasonal Services",
 ];
 
-export default function ServicesPage() {
-  const services = getServices();
-  const pages = getPages();
-  const site = getSite();
+export default async function ServicesPage() {
+  const services = await getServices();
+  const pages = await getPages();
+  const site = await getSite();
   const crumbs = [
     { label: "Home", href: "/" },
     { label: "Services" },

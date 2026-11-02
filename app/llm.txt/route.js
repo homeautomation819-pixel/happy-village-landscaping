@@ -3,10 +3,10 @@ import { fullAddress, absUrl } from "../../lib/site";
 
 export const dynamic = "force-dynamic";
 
-export function GET() {
-  const site = getSite();
-  const services = getServices();
-  const locations = getLocations();
+export async function GET() {
+  const site = await getSite();
+  const services = await getServices();
+  const locations = await getLocations();
   const a = site.address;
 
   const lines = [];

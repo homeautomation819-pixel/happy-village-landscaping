@@ -5,8 +5,8 @@ export async function generateMetadata() {
   return { title: "Thank You | Happy Village Landscaping", robots: { index: false } };
 }
 
-export default function ThankYouPage() {
-  const site = getSite();
+export default async function ThankYouPage() {
+  const site = await getSite();
   return (
     <section className="section">
       <div className="container" style={{ maxWidth: 680, textAlign: "center", paddingTop: 60, paddingBottom: 60 }}>

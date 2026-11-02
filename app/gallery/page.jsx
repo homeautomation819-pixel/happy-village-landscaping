@@ -6,8 +6,8 @@ import JsonLd, { breadcrumbSchema, imageSchema } from "../../components/JsonLd";
 import { ogFor } from "../../lib/site";
 
 export async function generateMetadata() {
-  const pages = getPages();
-  const site = getSite();
+  const pages = await getPages();
+  const site = await getSite();
   return {
     title: pages.gallery.title,
     description: pages.gallery.metaDescription,
@@ -16,9 +16,9 @@ export async function generateMetadata() {
   };
 }
 
-export default function GalleryPage() {
-  const pages = getPages();
-  const site = getSite();
+export default async function GalleryPage() {
+  const pages = await getPages();
+  const site = await getSite();
   const g = pages.gallery;
   const crumbs = [{ label: "Home", href: "/" }, { label: "Gallery" }];
   return (

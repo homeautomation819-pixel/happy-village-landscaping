@@ -7,7 +7,7 @@ import JsonLd, { breadcrumbSchema } from "../../components/JsonLd";
 import { ogFor } from "../../lib/site";
 
 export async function generateMetadata() {
-  const site = getSite();
+  const site = await getSite();
   const title = `Areas We Serve | ${site.businessName} — North York, Toronto & GTA`;
   const description = "Happy Village Landscaping serves North York, Toronto, Scarborough, Etobicoke, York, East York, Vaughan & Markham. Free quotes: +1 (438) 835-4350.";
   return {
@@ -18,9 +18,9 @@ export async function generateMetadata() {
   };
 }
 
-export default function LocationsPage() {
-  const locations = getLocations();
-  const site = getSite();
+export default async function LocationsPage() {
+  const locations = await getLocations();
+  const site = await getSite();
   const crumbs = [{ label: "Home", href: "/" }, { label: "Areas We Serve" }];
   return (
     <>

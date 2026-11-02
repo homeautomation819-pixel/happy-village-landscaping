@@ -11,9 +11,9 @@ import { ogFor } from "../../../lib/site";
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
-  const service = getService(slug);
+  const service = await getService(slug);
   if (!service) return {};
-  const site = getSite();
+  const site = await getSite();
   return {
     title: service.title,
     description: service.metaDescription,
@@ -24,11 +24,11 @@ export async function generateMetadata({ params }) {
 
 export default async function ServicePage({ params }) {
   const { slug } = await params;
-  const service = getService(slug);
+  const service = await getService(slug);
   if (!service) notFound();
-  const site = getSite();
-  const services = getServices();
-  const locations = getLocations();
+  const site = await getSite();
+  const services = await getServices();
+  const locations = await getLocations();
   const related = (service.relatedServices || [])
     .map((s) => services.find((x) => x.slug === s))
     .filter(Boolean);

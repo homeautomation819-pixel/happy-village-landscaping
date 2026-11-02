@@ -11,9 +11,9 @@ import { ogFor } from "../../../lib/site";
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
-  const loc = getLocation(slug);
+  const loc = await getLocation(slug);
   if (!loc) return {};
-  const site = getSite();
+  const site = await getSite();
   return {
     title: loc.title,
     description: loc.metaDescription,
@@ -29,11 +29,11 @@ const FEATURED_SLUGS = [
 
 export default async function LocationPage({ params }) {
   const { slug } = await params;
-  const loc = getLocation(slug);
+  const loc = await getLocation(slug);
   if (!loc) notFound();
-  const site = getSite();
-  const locations = getLocations();
-  const services = getServices();
+  const site = await getSite();
+  const locations = await getLocations();
+  const services = await getServices();
   const featured = FEATURED_SLUGS.map((s) => services.find((x) => x.slug === s)).filter(Boolean);
   const nearby = locations.filter((l) => l.slug !== loc.slug);
   const crumbs = [

@@ -6,8 +6,8 @@ import JsonLd, { faqSchema, breadcrumbSchema } from "../../components/JsonLd";
 import { fullAddress, waLink, ogFor } from "../../lib/site";
 
 export async function generateMetadata() {
-  const pages = getPages();
-  const site = getSite();
+  const pages = await getPages();
+  const site = await getSite();
   return {
     title: pages.contact.title,
     description: pages.contact.metaDescription,
@@ -16,10 +16,10 @@ export async function generateMetadata() {
   };
 }
 
-export default function ContactPage() {
-  const pages = getPages();
-  const site = getSite();
-  const services = getServices();
+export default async function ContactPage() {
+  const pages = await getPages();
+  const site = await getSite();
+  const services = await getServices();
   const c = pages.contact;
   const crumbs = [{ label: "Home", href: "/" }, { label: "Contact" }];
   return (

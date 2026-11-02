@@ -7,8 +7,8 @@ import JsonLd, { breadcrumbSchema } from "../../components/JsonLd";
 import { ogFor } from "../../lib/site";
 
 export async function generateMetadata() {
-  const pages = getPages();
-  const site = getSite();
+  const pages = await getPages();
+  const site = await getSite();
   return {
     title: pages.about.title,
     description: pages.about.metaDescription,
@@ -17,10 +17,10 @@ export async function generateMetadata() {
   };
 }
 
-export default function AboutPage() {
-  const pages = getPages();
-  const site = getSite();
-  const locations = getLocations();
+export default async function AboutPage() {
+  const pages = await getPages();
+  const site = await getSite();
+  const locations = await getLocations();
   const a = pages.about;
   const crumbs = [{ label: "Home", href: "/" }, { label: "About" }];
   return (

@@ -9,7 +9,7 @@ export async function POST(request) {
     if (!data.name || !data.phone || !data.serviceSlug) {
       return Response.json({ error: "Missing required fields" }, { status: 400 });
     }
-    addAppointment({
+    await addAppointment({
       name: String(data.name).slice(0, 120),
       phone: String(data.phone).slice(0, 40),
       email: String(data.email || "").slice(0, 120),
